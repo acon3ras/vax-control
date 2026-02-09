@@ -118,7 +118,16 @@ Agrega el siguiente cron para tareas automáticas:
 
 ## 📝 Licencia
 
-Este proyecto es privado. Todos los derechos reservados.
+Este proyecto es de código abierto y se distribuye bajo la **Licencia MIT**.
+
+Copyright © 2026 **Alexi Contreras**.
+
+Puede ser utilizado, modificado y distribuido libremente por personas o instituciones,
+siempre que se mantenga el aviso de derechos de autor y la licencia original.
+
+Este software se entrega como referencia técnica y base de apoyo.
+No reemplaza sistemas clínicos oficiales ni garantiza cumplimiento normativo
+sin las adecuaciones correspondientes en cada país o institución.
 
 ---
 
